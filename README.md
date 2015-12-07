@@ -1,0 +1,2 @@
+# minVSGitHubStuff
+VSGitHubStuff
